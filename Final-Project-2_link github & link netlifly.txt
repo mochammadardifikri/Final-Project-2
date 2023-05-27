@@ -1,0 +1,12 @@
+link github
+https://github.com/mochammadardifikri/Final-Project-2.git
+
+link netlifly
+https://businessproject2.netlify.app
+
+
+Pembagian Tugas
+Section A : Header & Banner = Ihza Madani Sandipraja
+Section B : Products Features 1 & Features 2 = Ihza Madani Sandipraja
+Section C : About & Pricing = M.Ardi
+Section D : Contact & Footer = M.Ridwan
